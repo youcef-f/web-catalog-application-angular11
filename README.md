@@ -3,8 +3,10 @@
 
 https://ultimatecourses.com/blog/angular-ngfor-async-pipe
 
-
+![](doc/images/singleComposant.jpg)
 ## Application angular 11
+
+
 ![](doc/images/application.jpg)
 
 
