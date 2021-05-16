@@ -328,10 +328,10 @@ declaration d'une variable **Observable** , il faut au niveau du code html intro
 il faut faire appelle à la calsse ActivatedRoute.snpashot.params.id
     this.productId = activatedRoute.snapshot.params.id;
 
-## Etat de l'application: methode input output d'angular.
+## Etat de l'application: methode input output d'angular. ( voir projet v2 )
 ![](doc/images/outputinput.jpg)
 
-## Etat de l'application: methode ngRx. ( préféré)
+## Etat de l'application: methode ngRx. ( préféré)  ( voir projet v3)
 le défaut de la méthode **input output** d'Angular deviens assez compliquer pour de grosse application. Il faut donc préféré **ngRx** à la place.
 ![](doc/images/ngrx.jpg)
 
